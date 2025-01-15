@@ -2,8 +2,8 @@
 
 # Let's create a more useful function:
 
-def add_one(num):
-  return num + 1
+def add_one(num_1):
+  return num_1 + 1
 
 # Here is how it used:
 
